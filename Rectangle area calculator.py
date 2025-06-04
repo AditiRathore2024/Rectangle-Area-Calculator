@@ -3,3 +3,4 @@ def cal () :
     height=int(input("enter the height of a rectangle:"))
     area=width*height
     print("the area of the rectangle is",area)
+	Print ("Thank you")
